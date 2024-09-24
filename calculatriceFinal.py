@@ -1,4 +1,5 @@
 import tkinter as tk
+# vous pouvez aussi utiliser customtkinter
 
 
 # Fonction pour ajouter les chiffres et opérateurs à l'affichage
